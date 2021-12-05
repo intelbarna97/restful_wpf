@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_RESTful", "WPF_RESTful\WPF_RESTful.csproj", "{8F6D374A-6FDF-44DD-BCB0-BFD5764CE3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6D374A-6FDF-44DD-BCB0-BFD5764CE3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6D374A-6FDF-44DD-BCB0-BFD5764CE3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6D374A-6FDF-44DD-BCB0-BFD5764CE3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6D374A-6FDF-44DD-BCB0-BFD5764CE3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68125AC4-3F32-473F-886B-FAB79FA8F51D}
+	EndGlobalSection
+EndGlobal
