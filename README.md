@@ -1,1 +1,1 @@
-# restful_wpf
+# wpf client and a php server
